@@ -1,3 +1,4 @@
-git add .
-git commit -m "feat: добавлен код"
-git push -u origin main
+__pycache__/
+*.pyc
+.env
+venv/
